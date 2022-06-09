@@ -71,7 +71,7 @@ button{
 
 input[type=range] {
     display:flex;
-    margin-left:2em;
+    margin-left:2.5em;
     margin-top:4em;
     -webkit-appearance: none;
     width: 75%;
