@@ -1,0 +1,142 @@
+{
+  "destinations": [
+    {
+      "name": "Moon",
+      "images": {
+        "png": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-moon.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-moon.webp"
+      },
+      "description": "See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Apollo 11 landing sites.",
+      "distance": "384,400 km",
+      "travel": "3 days",
+      "content":"Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the Red Planet.",
+      "structure": "Like Earth, Mars has differentiated into a dense metallic core overlaid by less dense materials. Scientists initially determined that the core is at least partially liquid. Current models of its interior imply a core consisting primarily of iron and nickel with about 16–17% sulfur.",
+      "geology":"Mars is a terrestrial planet whose surface consists of minerals containing silicon and oxygen, metals, and other elements that typically make up rock. The surface is primarily composed of tholeiitic basalt, although parts are more silica-rich than typical basalt."
+    },
+    {
+      "name": "Mars",
+      "images": {
+        "png": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-mars.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-mars.webp"
+      },
+      "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest! Can you imagine?",
+      "distance": "225 mil. km",
+      "travel": "9 months",
+      "content":"Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the Red Planet.",
+      "structure": "Like Earth, Mars has differentiated into a dense metallic core overlaid by less dense materials. Scientists initially determined that the core is at least partially liquid. Current models of its interior imply a core consisting primarily of iron and nickel with about 16–17% sulfur.",
+      "geology":"Mars is a terrestrial planet whose surface consists of minerals containing silicon and oxygen, metals, and other elements that typically make up rock. The surface is primarily composed of tholeiitic basalt, although parts are more silica-rich than typical basalt."
+    },
+    {
+      "name": "Europa",
+      "images": {
+        "png": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-europa.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-europa.webp"
+      },
+      "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lovers dream. With an icy surface, its perfect for a bit of ice skating, hockey, or simple relaxation in your snug wintery cabin.",
+      "distance": "628 mil. km",
+      "travel": "3 years",
+      "content":"Europa is the sixth closest moon of Jupiter and is the smallest of the Galilean moons discovered by Galileo. The other Galilean moons are Io, Ganymede and Callisto. Even though it is the smallest of the Galilean moons, Europa is still the sixth largest of the 181 moons in the solar system.Europa is a frozen, icy world and is a unique object in the solar system – scientists believe that beneath the frozen layer of ice on Europa’s surface, there is a salt-water ocean in contact with a rocky seafloor. If this is proven to be true, Europa may be a promising place for life to exist beyond Earth."
+    },
+    {
+      "name": "Titan",
+      "images": {
+        "png": "https://krrish105.github.io/space-tourism/static/media/image-titan.d4b078f9ce17e686ae99.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-titan.webp"
+      },
+      "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
+      "distance": "1.6 bil. km",
+      "travel": "7 years",
+      "content":"Saturn's largest moon, Titan, is an icy world whose surface is completely obscured by a golden hazy atmosphere. Titan is the second largest moon in our solar system. Only Jupiter's moon Ganymede is larger, by just 2 percent. Titan is bigger than Earth's moon, and larger than even the planet Mercury.This mammoth moon is the only moon in the solar system with a dense atmosphere, and it’s the only world besides Earth that has standing bodies of liquid, including rivers, lakes and seas, on its surface. Like Earth, Titan’s atmosphere is primarily nitrogen, plus a small amount of methane. It is the sole other place in the solar system known to have an earthlike cycle of liquids raining from clouds, flowing across its surface, filling lakes and seas, and evaporating back into the sky . Titan is also thought to have a subsurface ocean of water."
+    },
+    {
+      "name": "Mercury",
+      "images": {
+        "png": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-moon.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-moon.webp"
+      },
+      "description": "Dont forget to pack warm clothes and sunglasses. The closest planet to the Sun does indeed have ice on its surface. That sounds surprising at first glance, but dont worry it's always hot here.",
+      "distance": "384,400 km",
+      "travel": "3 days",
+      "content":"Mercury is the smallest planet in the Solar System and the closest to the Sun. Its orbit around the Sun takes 87.97 Earth days, the shortest of all the Sun's planets. Mercury is one of four terrestrial planets in the Solar System, and is a rocky body like Earth.",
+      "structure":"Mercury appears to have a solid silicate crust and mantle overlying a solid, iron sulfide outer core layer, a deeper liquid core layer, and a solid inner core. The planet's density is the second highest in the Solar System at 5.427 g/cm3 , only slightly less than Earth's density.",
+      "geology":"Mercury's surface is similar in appearance to that of the Moon, showing extensive mare-like plains and heavy cratering, indicating that it has been geologically inactive for billions of years. It is more heterogeneous than either Mars's or the Moons."
+    },
+    {
+      "name": "Jupiter",
+      "images": {
+        "png": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-moon.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/destination/image-moon.webp"
+      },
+      "description": "Jupiter is a great comet catcher.So if you love to go on vacation with extreme sports, this destination is for you.Jupiter is the largest planet in our solar system. So there is a lot to see here!",
+      "distance": "384,400 km",
+      "travel": "3 days",
+      "content":"Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass two and a half times that of all the other planets in the Solar System combined, but less than one-thousandth the mass of the Sun.",
+      "structure":"When the Juno arrived in 2016, it found that Jupiter has a very diffuse core that mixes into its mantle. A possible cause is an impact from a planet of about ten Earth masses a few million years after Jupiter's formation, which would have disrupted an originally solid Jovian core.",
+      "geology" : "The best known feature of Jupiter is the Great Red Spot, a persistent anticyclonic storm located 22° south of the equator. It is known to have existed since at least 1831, and possibly since 1665."
+    }
+  ],
+  "crew": [
+    {
+      "name": "Douglas Hurley",
+      "images": {
+        "png": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/crew/image-douglas-hurley.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/crew/image-douglas-hurley.webp"
+      },
+      "role": "Commander",
+      "bio": "Douglas Gerald Hurley is an American engineer, former Marine Corps pilot and former NASA astronaut. He launched into space for the third time as commander of Crew Dragon Demo-2."
+    },
+    {
+      "name": "Mark Shuttleworth",
+      "images": {
+        "png": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/crew/image-mark-shuttleworth.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/crew/image-mark-shuttleworth.webp"
+      },
+      "role": "Mission Specialist",
+      "bio": "Mark Richard Shuttleworth is the founder and CEO of Canonical, the company behind the Linux-based Ubuntu operating system. Shuttleworth became the first South African to travel to space as a space tourist."
+    },
+    {
+      "name": "Victor Glover",
+      "images": {
+        "png": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/crew/image-victor-glover.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/crew/image-victor-glover.webp"
+      },
+      "role": "Pilot",
+      "bio": "Pilot on the first operational flight of the SpaceX Crew Dragon to the International Space Station. Glover is a commander in the U.S. Navy where he pilots an F/A-18.He was a crew member of Expedition 64, and served as a station systems flight engineer."
+    },
+    {
+      "name": "Anousheh Ansari",
+      "images": {
+        "png": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/crew/image-anousheh-ansari.png",
+        "webp": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/crew/image-anousheh-ansari.webp"
+      },
+      "role": "Flight Engineer",
+      "bio": "Anousheh Ansari is an Iranian American engineer and co-founder of Prodea Systems. Ansari was the fourth self-funded space tourist, the first self-funded woman to fly to the ISS, and the first Iranian in space."
+    }
+  ],
+  "technology": [
+    {
+      "name": "Launch vehicle",
+      "images": {
+        "portrait": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/technology/image-launch-vehicle-portrait.jpg",
+        "landscape": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/technology/image-launch-vehicle-portrait.jpg"
+      },
+      "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+    },
+    {
+      "name": "Spaceport",
+      "images": {
+        "portrait": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/technology/image-spaceport-portrait.jpg",
+        "landscape": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/technology/image-spaceport-portrait.jpg"
+      },
+      "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+    },
+    {
+      "name": "Space capsule",
+      "images": {
+        "portrait": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/technology/image-space-capsule-portrait.jpg",
+        "landscape": "https://raw.githubusercontent.com/krrish105/space-tourism/main/src/assets/technology/image-space-capsule-portrait.jpg"
+      },
+      "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+    }
+  ]
+}
