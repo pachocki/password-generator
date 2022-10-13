@@ -215,3 +215,22 @@ input[type=range] {
  
         
 }
+
+@media only screen and (max-width: 600px) {
+  .container{
+    width:90%;
+    padding:10px;
+  }
+  .container h1{
+    font-size:1.5em;
+  }
+  button{
+    font-size:1em;
+  }
+  #output{
+    margin-left:1em;
+  }
+  input[type=range]{
+    margin-left:1em;
+  }
+}
